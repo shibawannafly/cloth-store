@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,UAAU;CACzB",
+    "sources": [
+        "signpage.style.scss"
+    ],
+    "names": [],
+    "file": "signpage.style.css"
+}
